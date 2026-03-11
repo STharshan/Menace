@@ -10,39 +10,37 @@ export const HeroContent = {
 
 export const Services = [
   {
-    subtitle: "Exterior Wash",
-    image: "e.png",
-    coverage: [
-      "Safe hand wash using premium products",
-      "Removes dirt, dust, and road grime",
-      "Gentle on paint and trims",
-      "Spot-free drying and finishing",
-      "Keeps vehicle looking fresh and clean"
+    "subtitle": "Car Bodywork",
+    "image": "c1.jpeg",
+    "coverage": [
+      "Expert repairs to dents, scratches, and collision damage",
+      "Colour-matched resprays for a flawless factory finish",
+      "Restores your vehicle's appearance and resale value",
+      "Structural and cosmetic repairs carried out to the highest standard",
+      "All work guaranteed — quality you can see and trust"
     ]
   },
   {
-    subtitle: "Ceramic Coating",
-    image: "/c.jpeg",
-    coverage: [
-      "Long-lasting nano-ceramic protection",
-      "Hydrophobic water-repellent surface",
-      "UV and chemical resistance",
-      "Enhances paint gloss and depth",
-      "Easier cleaning and maintenance"
+    "subtitle": "Car Sales",
+    "image": "c2.jpg",
+    "coverage": [
+      "Quality used vehicles inspected and ready to drive away",
+      "Honest, no-pressure buying experience you can trust",
+      "Part-exchange welcome on all makes and models",
+      "Competitive pricing with flexible options to suit your budget",
+      "Fully prepared vehicles — clean, serviced, and road-ready"
     ]
   },
   {
-    subtitle: "Machine Polishing",
-    image: "m.webp",
-    coverage: [
-      "Removes deeper swirl marks and surface imperfections",
-      "Restores high-gloss shine and paint clarity",
-      "Reduces light scratches and oxidation",
-      "Professional machine-applied compounds and polish",
-      "Leaves paintwork smooth, vibrant, and refreshed"
+    "subtitle": "Recovery",
+    "image": "c3.jpg",
+    "coverage": [
+      "Fast response 24/7 roadside and breakdown recovery",
+      "Safe and secure vehicle transportation"
     ]
   }
 ];
+
 export const reviewsData = [
   {
     id: 1,
@@ -101,9 +99,9 @@ export const footerContent = {
 
   office: {
     title: "Office",
-    address: "Debdon Gardens, Newcastle upon Tyne NE6 5TS",
+    address: "London",
     email: "office@-nottingham.co.uk",
-    phone: "07944368356"
+    phone: "0123456789"
   },
 
   bottomBar: {
