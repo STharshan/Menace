@@ -37,6 +37,9 @@ export const Services = [
     "coverage": [
       "Fast response 24/7 roadside and breakdown recovery",
       "Safe and secure vehicle transportation"
+      "Assistance for lockouts, flat tires, and jump-starts",
+    "Towing services for all vehicle sizes and conditions",
+    "Professional support to get you back on the road quickly"
     ]
   }
 ];
